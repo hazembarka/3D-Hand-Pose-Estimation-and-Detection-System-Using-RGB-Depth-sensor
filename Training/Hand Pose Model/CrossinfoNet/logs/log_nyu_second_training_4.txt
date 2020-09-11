@@ -1,0 +1,62 @@
+epoch 0, mean error 102.31212616
+epoch 1, mean error 69.1230621338
+*********************
+current best epoch is 1, mean error is 69.1230621338
+*********************
+epoch 2, mean error 43.610748291
+*********************
+current best epoch is 2, mean error is 43.610748291
+*********************
+epoch 3, mean error 27.9447689056
+*********************
+current best epoch is 3, mean error is 27.9447689056
+*********************
+epoch 4, mean error 17.4438877106
+*********************
+current best epoch is 4, mean error is 17.4438877106
+*********************
+epoch 5, mean error 12.5228500366
+*********************
+current best epoch is 5, mean error is 12.5228500366
+*********************
+epoch 6, mean error 9.88381290436
+*********************
+current best epoch is 6, mean error is 9.88381290436
+*********************
+epoch 7, mean error 9.47399330139
+*********************
+current best epoch is 7, mean error is 9.47399330139
+*********************
+epoch 8, mean error 8.10608482361
+*********************
+current best epoch is 8, mean error is 8.10608482361
+*********************
+epoch 9, mean error 7.64701414108
+*********************
+current best epoch is 9, mean error is 7.64701414108
+*********************
+epoch 10, mean error 7.73567581177
+epoch 11, mean error 7.39107179642
+*********************
+current best epoch is 11, mean error is 7.39107179642
+*********************
+epoch 12, mean error 7.78450012207
+epoch 13, mean error 7.30251026154
+*********************
+current best epoch is 13, mean error is 7.30251026154
+*********************
+epoch 14, mean error 7.22838258743
+*********************
+current best epoch is 14, mean error is 7.22838258743
+*********************
+epoch 15, mean error 7.09446239471
+*********************
+current best epoch is 15, mean error is 7.09446239471
+*********************
+epoch 16, mean error 7.18208599091
+epoch 17, mean error 7.61592674255
+epoch 18, mean error 8.08615112305
+epoch 19, mean error 6.57153844833
+*********************
+current best epoch is 19, mean error is 6.57153844833
+*********************

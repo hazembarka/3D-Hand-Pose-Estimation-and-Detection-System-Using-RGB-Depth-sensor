@@ -1,0 +1,30 @@
+*********************
+current best epoch is 0, mean error is 71.41746521
+*********************
+*********************
+current best epoch is 1, mean error is 26.3630847931
+*********************
+*********************
+current best epoch is 2, mean error is 12.4406375885
+*********************
+*********************
+current best epoch is 0, mean error is 10.505616188
+*********************
+*********************
+current best epoch is 1, mean error is 9.25152492523
+*********************
+*********************
+current best epoch is 2, mean error is 8.79080581665
+*********************
+*********************
+current best epoch is 4, mean error is 8.64710426331
+*********************
+*********************
+current best epoch is 2, mean error is 8.4709482193
+*********************
+*********************
+current best epoch is 3, mean error is 7.89103126526
+*********************
+*********************
+current best epoch is 4, mean error is 7.58366394043
+*********************
