@@ -29,6 +29,8 @@ cd django_project/
 python handpose.py
 ```
 
+
+Please download trained [weights](https://drive.google.com/drive/folders/1-Hk2XSuTzvUTrJ-WhluHmr8EWcuOSN9d?usp=sharing) to /django_project/Hand_pose_estimation_part/model
 ## Training :
 
 ### The Hand pose estimation model :
