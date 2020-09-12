@@ -1,4 +1,4 @@
-# 3D Hand Pose Estimation System
+# 3D Hand Pose Estimation and detection System using RGB-Depth sensor
 
 ![hand pose](./images/hand_pose.png)
 
@@ -29,8 +29,8 @@ cd django_project/
 python handpose.py
 ```
 
-
-Please download trained [weights](https://drive.google.com/drive/folders/1-Hk2XSuTzvUTrJ-WhluHmr8EWcuOSN9d?usp=sharing) to /django_project/Hand_pose_estimation_part/model
+I'm providing the resulted [pre-trained weights](https://drive.google.com/drive/folders/1-Hk2XSuTzvUTrJ-WhluHmr8EWcuOSN9d?usp=sharing)
+Please download them to /django_project/Hand_pose_estimation_part/model
 ## Training :
 
 ### The Hand pose estimation model :
