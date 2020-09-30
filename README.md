@@ -1,4 +1,4 @@
-# 3D Hand Pose Estimation and detection System using RGB-Depth sensor
+# 3D Hand Pose Estimation and detection System using Depth sensor
 
 ![hand pose](./images/hand_pose.png)
 
@@ -39,7 +39,7 @@ The model is based on the great work of Kuo Du and others : [Paper](https://open
 
 For this project, the model is trained using [NYU dataset](https://drive.google.com/file/d/1I22UITfFPtDYLFRDFmZqc5BtpMU2zeU7/view?usp=sharing) (this version contains only the needed files, 4GB instead of 92GB) , please follow the instructions which I have provided in **the training notebook.**
 
-### RGB-Depth hand detection model :
+### Depth based hand detection model :
 At first, we used a [pre-trained RGB based hand detector](https://github.com/victordibia/handtracking) but as the light emitted by the data show affected badly its performance, we managed to train another one using the depth sensor, details are in **the associated notebook.** 
 ![hand detector](./images/hand_detector.png)
 
